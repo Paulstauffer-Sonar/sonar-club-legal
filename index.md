@@ -5,7 +5,7 @@ Bienvenue sur la page des documents juridiques de Sonar Club.
 ## Documents juridiques
 
 - [Conditions Générales d'Utilisation](CGU_SONAR_CLUB.md)
-- [Politique de confidentialité](politique-confidentialite/)
+- [Politique de confidentialité](POLITIQUE_CONFIDENTIALITE.md)
 
 ## Contact
 
