@@ -1,3 +1,5 @@
+title: "Politique de confidentialité"
+permalink: /politique-confidentialite/
 # Politique de confidentialité — Sonar Club
 
 **Dernière mise à jour : 4 octobre 2026**
