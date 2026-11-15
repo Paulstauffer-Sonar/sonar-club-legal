@@ -105,7 +105,7 @@ Tout manquement expose l'Utilisateur au retrait du Contenu et à la suspension o
 
 ### 11.1 Signalement
 
-Chaque publication, commentaire et profil peut être signalé depuis l'Application, au moyen de la fonction « Signaler ». Tout autre Contenu, y compris un message privé, peut être signalé par e-mail à admin.sonarclub@gmail.com. Toute personne, même non inscrite, peut signaler par e-mail un Contenu qu'elle estime illicite, en indiquant ses motifs et l'emplacement précis du Contenu.
+Chaque publication, commentaire, profil et message privé reçu peut être signalé depuis l'Application, au moyen de la fonction « Signaler » (pour un message privé : appui long sur le message, puis « Signaler ce message »). Tout autre Contenu peut être signalé par e-mail à admin.sonarclub@gmail.com. Toute personne, même non inscrite, peut signaler par e-mail un Contenu qu'elle estime illicite, en indiquant ses motifs et l'emplacement précis du Contenu.
 
 ### 11.2 Traitement sous 24 heures
 
@@ -168,7 +168,7 @@ Les coordonnées de l'Éditeur pour toute question, réclamation ou demande figu
 
 ## Article 19 — Services tiers
 
-Le Service s'appuie sur des services fournis par des tiers, notamment Apple (distribution et notifications), Google (plateforme Firebase : authentification, base de données, stockage, notifications, mesure d'audience et de performance) et TMDB (données relatives aux films). Leur utilisation est décrite dans la politique de confidentialité. L'Éditeur n'est pas responsable du contenu des sites ou services tiers vers lesquels l'Application peut renvoyer.
+Le Service s'appuie sur des services fournis par des tiers, notamment Apple (distribution et notifications), Google (plateforme Firebase : authentification, base de données, stockage, fonctions serveur, notifications) et TMDB (données relatives aux films). Leur utilisation est décrite dans la politique de confidentialité. L'Éditeur n'est pas responsable du contenu des sites ou services tiers vers lesquels l'Application peut renvoyer.
 
 ## Article 20 — Modification des CGU
 
