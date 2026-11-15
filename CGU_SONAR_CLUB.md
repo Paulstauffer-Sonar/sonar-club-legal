@@ -1,224 +1,185 @@
-# CONDITIONS GÉNÉRALES D’UTILISATION
+# Conditions générales d'utilisation de Sonar Club
 
-## SONAR CLUB — VERSION BÊTA FERMÉE TESTFLIGHT
+*Version 2 — en vigueur à compter du 15 novembre 2026*
 
-*Entrée en vigueur : 4 octobre 2026*
+## Article 1 — Objet et définitions
 
-## 1. Objet et champ d’application
+Les présentes conditions générales d'utilisation (les « CGU ») définissent les conditions dans lesquelles toute personne peut utiliser Sonar Club. Elles forment un contrat entre l'Utilisateur et l'Éditeur.
 
-Les présentes Conditions Générales d’Utilisation (« CGU ») régissent l’accès et l’utilisation de l’application mobile Sonar Club et des services associés (le « Service ») pendant sa phase de bêta fermée distribuée au moyen de TestFlight.
+- **« Application »** : l'application mobile Sonar Club pour iPhone, distribuée sur l'App Store d'Apple.
+- **« Service »** : l'ensemble des fonctionnalités accessibles par l'Application, notamment le fil d'actualité, les fiches de films, les notes, listes et enregistrements, les likes, les commentaires, les abonnements, la messagerie privée et les « sonars » (propositions de films entre amis).
+- **« Éditeur »** : la personne identifiée à l'article 2.
+- **« Utilisateur »** : toute personne qui crée un Compte et utilise le Service.
+- **« Compte »** : l'espace personnel de l'Utilisateur, accessible avec ses identifiants.
+- **« Contenu »** : tout élément publié ou envoyé par un Utilisateur au moyen du Service (texte, note, commentaire, message, photo de profil, pseudonyme, liste, etc.).
 
-Sonar Club permet notamment à ses utilisateurs de noter des films et séries, publier et consulter des avis, échanger des recommandations et solliciter des suggestions auprès d’autres utilisateurs au moyen de fonctionnalités sociales.
+## Article 2 — Éditeur et hébergement
 
-Les présentes CGU constituent un contrat entre Paul STAUFFER, agissant à ce jour en qualité de personne physique éditrice du Service (l’« Éditeur »), et toute personne autorisée à accéder à la bêta (l’« Utilisateur »).
+L'Application est éditée par une personne physique agissant à titre non professionnel. Conformément à l'article 1-1, II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, l'Éditeur a choisi de préserver son anonymat et a communiqué ses éléments d'identification personnelle à son hébergeur, désigné ci-dessous.
 
-## 2. Identification de l’Éditeur
+Contact : admin.sonarclub@gmail.com
 
-- Éditeur : Paul STAUFFER, personne physique.
-- Adresse postale : 71 bis rue de la tombe Issoire.
-- Adresse électronique : staufferpaul.pro@gmail.com.
-- Directeur de la publication : Paul STAUFFER.
-- Hébergement / infrastructure : services Google Firebase \[à confirmer et compléter dans la politique de confidentialité selon les services Firebase effectivement activés\].
+Hébergement des données du Service : Google Cloud France, 8 rue de Londres, 75009 Paris, France (plateforme Firebase de Google).
 
-À la date d’entrée en vigueur des présentes CGU, aucune société dédiée à l’exploitation de Sonar Club n’est constituée. Toute substitution ultérieure d’une société à l’Éditeur, ainsi que tout transfert des droits de propriété intellectuelle correspondants, fera l’objet des actes et informations nécessaires.
+Hébergement des pages légales (CGU et politique de confidentialité) : GitHub, Inc., États-Unis (service GitHub Pages).
 
-## 3. Nature de la version bêta
+## Article 3 — Accès au Service
 
-Le Service est fourni sous la forme d’une version bêta fermée, non finalisée, expérimentale et non commercialisée comme version définitive. Il est mis à disposition afin de tester ses fonctionnalités, identifier des anomalies et recueillir des retours utilisateurs.
+Le Service est accessible gratuitement, sous réserve de disposer d'un appareil Apple compatible et d'une connexion à internet, dont les coûts restent à la charge de l'Utilisateur.
 
-L’Utilisateur reconnaît que la bêta peut notamment comporter des erreurs, bugs, ralentissements, interruptions, incompatibilités, fonctionnalités incomplètes, pertes de données ou comportements inattendus.
+L'Application ne contient à ce jour ni publicité ni achat intégré. Si l'Éditeur en introduit, les présentes CGU et la politique de confidentialité seront mises à jour au préalable, dans les conditions de l'article 20.
 
-L’existence de la bêta ne constitue aucun engagement de l’Éditeur quant au lancement public ou commercial du Service, au maintien d’une fonctionnalité, à une date de lancement, à la gratuité future du Service ou à la conservation des données créées pendant la bêta.
+## Article 4 — Inscription et Compte
 
-## 4. Durée du Programme Bêta
+### 4.1 Âge minimum
 
-La phase bêta débute le 4 octobre 2026 pour une durée prévue de trente (30) jours, soit jusqu’au 2 novembre 2026 inclus.
+Le Service est réservé aux personnes âgées d'au moins **15 ans**. L'Utilisateur indique sa date de naissance lors de l'inscription ; l'inscription est refusée en dessous de cet âge. L'Utilisateur mineur doit utiliser le Service dans le respect des règles fixées par ses représentants légaux. L'Éditeur peut supprimer tout Compte dont il apprend qu'il a été créé par une personne n'ayant pas l'âge requis.
 
-L’Éditeur peut toutefois écourter, suspendre ou prolonger cette période lorsque cela est nécessaire pour des raisons techniques, de sécurité, de conformité, de développement ou d’organisation. Toute prolongation significative sera portée à la connaissance des testeurs.
+### 4.2 Création du Compte
 
-## 5. Conditions d’accès et inscription
+L'Utilisateur fournit des informations exactes et les tient à jour. Il ne peut détenir qu'un seul Compte, ne peut pas créer de Compte au nom d'une autre personne et ne peut pas usurper l'identité d'un tiers. Le pseudonyme choisi ne doit pas être trompeur, injurieux ni porter atteinte aux droits d'un tiers.
 
-### 5.1 Accès sur invitation
+### 4.3 Sécurité
 
-La bêta est distribuée exclusivement via TestFlight et réservée aux personnes autorisées par l’Éditeur. L’accès est personnel, révocable, non cessible et non transférable.
+L'Utilisateur garde ses identifiants confidentiels et reste responsable de l'utilisation de son Compte. Il informe sans délai l'Éditeur de toute utilisation non autorisée.
 
-L’Utilisateur ne peut ni vendre, céder, prêter ou partager son invitation, son lien TestFlight, ses identifiants ou son Compte avec un tiers.
+## Article 5 — Acceptation des CGU
 
-### 5.2 Âge minimum
+L'Utilisateur accepte les CGU et prend connaissance de la politique de confidentialité en cochant les cases prévues lors de l'inscription. Sans cette acceptation, le Compte ne peut pas être créé. L'Éditeur conserve la version acceptée et sa date.
 
-Le Service est réservé aux personnes âgées d’au moins quinze (15) ans.
+L'acceptation des CGU emporte l'acceptation des règles de la communauté de l'article 10, et notamment de la tolérance zéro à l'égard des contenus répréhensibles et des comportements abusifs.
 
-Lorsque l’Utilisateur est mineur, il ne peut accomplir seul que les actes pour lesquels la loi lui reconnaît une capacité suffisante. Une autorisation de son ou ses représentants légaux doit être obtenue chaque fois qu’elle est juridiquement nécessaire.
+## Article 6 — Licence d'utilisation de l'Application
 
-Les informations relatives au traitement des données personnelles d’un mineur sont rédigées dans des termes clairs et adaptés. Lorsque le traitement repose sur le consentement dans le cadre de l’offre directe d’un service de la société de l’information, un mineur âgé d’au moins quinze ans peut consentir seul dans les conditions prévues par la loi française.
+L'Éditeur concède à l'Utilisateur une licence personnelle, gratuite, non exclusive, non transférable et révocable d'utiliser l'Application, pour un usage privé et non commercial, sur les appareils de marque Apple qu'il possède ou contrôle, dans le respect des règles d'utilisation fixées par les conditions générales des services multimédias d'Apple (Apple Media Services Terms and Conditions).
 
-### 5.3 Création du Compte
+Il est interdit de copier, modifier, décompiler, désassembler ou tenter d'extraire le code source de l'Application, sauf dans les cas autorisés par la loi, ainsi que de la louer, la vendre ou la distribuer.
 
-La création du Compte requiert une adresse électronique valide, un mot de passe et un pseudonyme. L’ajout d’une photographie de profil est facultatif.
+## Article 7 — Propriété intellectuelle de l'Éditeur
 
-L’Utilisateur s’engage à fournir des informations exactes et à ne pas usurper l’identité d’un tiers. Les identifiants sont personnels et confidentiels. L’Utilisateur doit informer l’Éditeur sans délai en cas d’accès non autorisé dont il a connaissance.
+L'Application, son code, son design, ses textes, ses éléments graphiques, le nom et le logo Sonar Club appartiennent à l'Éditeur ou sont utilisés par lui avec l'autorisation de leurs titulaires. Ils sont protégés par le droit de la propriété intellectuelle. Toute reproduction ou utilisation sans autorisation écrite préalable est interdite, sous réserve des droits accordés à l'article 6.
 
-## 6. Acceptation des CGU
+## Article 8 — Données relatives aux films (TMDB)
 
-L’accès au Service est subordonné à l’acceptation préalable des présentes CGU au moyen d’une case à cocher ou de tout mécanisme équivalent. L’Éditeur peut conserver la preuve de la version acceptée et de la date d’acceptation.
+Les informations et visuels relatifs aux films (titres, affiches, résumés, distributions, etc.) proviennent de The Movie Database (TMDB). *This product uses the TMDB API but is not endorsed or certified by TMDB.* Ce produit utilise l'API TMDB mais n'est ni approuvé ni certifié par TMDB.
 
-La politique de confidentialité constitue un document d’information distinct. Lorsqu’un traitement nécessite le consentement de l’Utilisateur, celui-ci est recueilli séparément dans les conditions prévues par la réglementation.
+Ces éléments restent la propriété de leurs titulaires respectifs (studios, distributeurs, ayants droit). Ils sont affichés à titre d'information et ne peuvent pas être réutilisés par l'Utilisateur en dehors du Service. L'Éditeur ne garantit pas leur exactitude ni leur exhaustivité.
 
-## 7. Confidentialité et embargo de la bêta
+## Article 9 — Contenus des Utilisateurs
 
-Les fonctionnalités, interfaces, écrans, prototypes, parcours, méthodes, informations techniques, résultats de test, anomalies non publiques, roadmaps et, plus généralement, toute information non publique relative à Sonar Club portée à la connaissance de l’Utilisateur dans le cadre de la bêta sont confidentiels.
+### 9.1 Responsabilité de l'Utilisateur
 
-Sauf autorisation écrite préalable de l’Éditeur, l’Utilisateur s’interdit notamment de :
+L'Utilisateur est seul responsable des Contenus qu'il publie ou envoie. Il garantit qu'il dispose des droits nécessaires sur ces Contenus, qu'ils ne portent atteinte à aucun droit de tiers (droit d'auteur, droit à l'image, vie privée, etc.) et qu'ils respectent la loi et les présentes CGU.
 
-- publier ou partager des captures d’écran de l’Application ;
-- filmer, enregistrer ou diffuser une démonstration de la bêta ;
-- publier sur un réseau social, forum, site, blog ou messagerie publique une description détaillée des fonctionnalités non encore publiques ;
-- communiquer les fonctionnalités, interfaces ou informations de développement à une personne extérieure au Programme Bêta ;
-- communiquer publiquement les bugs, failles ou vulnérabilités découverts avant que l’Éditeur ait pu les traiter.
+### 9.2 Licence accordée à l'Éditeur
 
-Cette obligation s’applique jusqu’au lancement public de l’information ou fonctionnalité concernée ou jusqu’à sa levée écrite par l’Éditeur.
+L'Utilisateur conserve ses droits sur ses Contenus. Il accorde à l'Éditeur, gratuitement, pour le monde entier et pour la durée de mise en ligne du Contenu, une licence non exclusive d'héberger, reproduire, adapter techniquement, afficher et transmettre ses Contenus, uniquement pour faire fonctionner le Service et le rendre accessible aux personnes choisies par l'Utilisateur (par exemple ses abonnés). Cette licence prend fin lorsque le Contenu ou le Compte est supprimé, sous réserve des délais techniques et des obligations légales de conservation.
 
-Elle ne couvre pas les informations dont l’Utilisateur peut démontrer qu’elles étaient déjà licitement publiques, qu’il détenait licitement avant leur communication, qu’il a reçues licitement d’un tiers non tenu à confidentialité, ou qu’il doit divulguer en application d’une obligation légale ou d’une décision d’une autorité compétente.
+### 9.3 Messages privés
 
-## 8. Licence d’utilisation de la bêta
+Les messages privés échangés entre Utilisateurs sont soumis aux mêmes règles que les autres Contenus. L'Éditeur ne les lit pas de manière systématique. Il peut en prendre connaissance lorsqu'ils font l'objet d'un signalement, pour traiter ce signalement, ou lorsque la loi l'impose.
 
-Sous réserve du respect des présentes CGU, l’Éditeur accorde à l’Utilisateur, pour la seule durée de son accès à la bêta, une licence personnelle, limitée, non exclusive, révocable, non cessible et non sous-licenciable lui permettant d’utiliser l’Application à des fins personnelles de test.
+### 9.4 Visibilité
 
-Cette licence n’emporte aucun transfert de propriété intellectuelle ni aucun droit sur le code, les interfaces, marques, bases de données, contenus, graphismes, documents, concepts matérialisés ou autres éléments protégés de Sonar Club.
+Selon les réglages choisis par l'Utilisateur (par exemple un compte privé), ses Contenus peuvent être visibles par ses abonnés ou par les autres Utilisateurs. L'Utilisateur publie en connaissance de cause.
 
-## 9. Propriété intellectuelle
+## Article 10 — Règles de la communauté : tolérance zéro
 
-Sous réserve des droits appartenant à des tiers, l’Application Sonar Club, son code, sa structure, son architecture, ses interfaces, ses éléments graphiques, ses textes, signes distinctifs, documentations, bases de données et développements sont protégés par les règles applicables en matière de propriété intellectuelle.
+**Sonar Club applique une tolérance zéro à l'égard des contenus répréhensibles et des comportements abusifs.** Il est notamment interdit de publier, d'envoyer ou de promouvoir au moyen du Service :
 
-À la date des présentes et en l’absence de société constituée pour exploiter le Service, les droits détenus par l’Éditeur sur ces éléments demeurent détenus par Paul STAUFFER à titre personnel, sous réserve des éventuels droits de tiers ou contributeurs.
+- tout contenu illicite, ou incitant à commettre une infraction ;
+- tout contenu diffamatoire, injurieux, menaçant, haineux ou discriminatoire, notamment en raison de l'origine, de la religion, du sexe, de l'orientation sexuelle, de l'identité de genre, du handicap ou de l'âge ;
+- le harcèlement, l'intimidation, le dénigrement répété d'une personne ou la publication de ses informations personnelles sans son accord ;
+- tout contenu à caractère sexuel ou pornographique, et tout contenu sexualisant des mineurs ;
+- tout contenu violent ou choquant, l'apologie du terrorisme, de crimes ou de la violence ;
+- l'incitation au suicide ou à l'automutilation ;
+- la promotion ou la vente de produits ou services illicites (stupéfiants, armes, contrefaçons, etc.) ;
+- tout contenu portant atteinte aux droits d'un tiers (droit d'auteur, marque, droit à l'image, vie privée), y compris les liens vers des sources illégales de films ou de séries ;
+- l'usurpation de l'identité d'une personne ou d'un organisme ;
+- le spam, les messages répétés ou automatisés, la publicité ou le démarchage non sollicités ;
+- tout logiciel malveillant, la collecte automatisée de données (« scraping »), l'utilisation de robots ou toute tentative de contourner la sécurité du Service.
 
-Il est interdit, sauf disposition légale impérative contraire, de reproduire, copier, modifier, adapter, traduire, distribuer, vendre, louer, extraire substantiellement, décompiler, désassembler, effectuer de l’ingénierie inverse ou tenter d’accéder au code source de l’Application.
+Tout manquement expose l'Utilisateur au retrait du Contenu et à la suspension ou à la suppression définitive de son Compte, dans les conditions des articles 11 et 16.
 
-## 10. Contenus publiés par les Utilisateurs
+## Article 11 — Signalement, blocage et modération
 
-L’Utilisateur demeure titulaire des droits qu’il détient sur ses contenus, notamment pseudonyme, photographie de profil, notes, avis, commentaires, messages et recommandations.
+### 11.1 Signalement
 
-Afin de permettre le fonctionnement du Service, l’Utilisateur concède à l’Éditeur, à titre gratuit, non exclusif et mondial, pour la durée de mise à disposition du contenu et sous réserve des sauvegardes techniques ou obligations légales, le droit de l’héberger, le reproduire techniquement, le mettre en cache, l’afficher, l’adapter techniquement et le transmettre aux destinataires correspondant aux fonctionnalités du Service.
+Chaque publication, commentaire et profil peut être signalé depuis l'Application, au moyen de la fonction « Signaler ». Tout autre Contenu, y compris un message privé, peut être signalé par e-mail à admin.sonarclub@gmail.com. Toute personne, même non inscrite, peut signaler par e-mail un Contenu qu'elle estime illicite, en indiquant ses motifs et l'emplacement précis du Contenu.
 
-L’Utilisateur s’engage à ne publier que des contenus qu’il est autorisé à utiliser et qui ne portent pas atteinte aux droits de tiers, à la loi, à l’ordre public ou aux présentes CGU.
+### 11.2 Traitement sous 24 heures
 
-## 11. Feedback, suggestions et rapports de bugs
+L'Éditeur examine les signalements **dans un délai de 24 heures**. Lorsqu'un Contenu est contraire aux présentes CGU ou à la loi, il est retiré et son auteur est exclu du Service, temporairement ou définitivement selon la gravité des faits. L'Éditeur peut aussi restreindre la visibilité d'un Contenu, adresser un avertissement ou limiter certaines fonctionnalités.
 
-L’Utilisateur est invité à transmettre à l’Éditeur ses observations, suggestions, idées d’amélioration et rapports de bugs, notamment au moyen des mécanismes TestFlight ou par courrier électronique à staufferpaul.pro@gmail.com.
+### 11.3 Blocage
 
-Les idées, informations fonctionnelles, observations et concepts non protégés contenus dans ces retours peuvent être librement utilisés par l’Éditeur pour analyser, corriger, faire évoluer et améliorer Sonar Club, sans rémunération ni obligation de mise en œuvre.
+Chaque Utilisateur peut bloquer un autre Utilisateur depuis son profil, à tout moment et sans avoir à se justifier. Le blocage met fin au lien d'abonnement entre les deux Comptes et empêche l'Utilisateur bloqué d'interagir avec celui qui l'a bloqué. Le blocage peut être levé à tout moment.
 
-Lorsqu’un Feedback constitue une création protégeable par le droit d’auteur, et sous réserve des droits moraux de son auteur, l’Utilisateur concède à l’Éditeur à titre gratuit, pour le monde entier et pour toute la durée légale de protection, les droits patrimoniaux nécessaires à sa reproduction, représentation, adaptation, traduction, modification et intégration dans Sonar Club, ses documentations et supports de présentation, sur tout support et par tout procédé, dans la mesure nécessaire au développement et à l’exploitation du Service.
+### 11.4 Motifs et contestation
 
-## 12. Données personnelles
+Lorsqu'un Contenu est retiré ou qu'un Compte est restreint, suspendu ou supprimé, l'Utilisateur concerné est informé de la mesure et de ses motifs, sauf si la loi ou une autorité s'y oppose. Il peut contester la mesure en écrivant à l'adresse de contact ; sa demande est réexaminée et une réponse motivée lui est adressée. L'auteur d'un signalement est informé de la suite qui y est donnée lorsqu'il a laissé ses coordonnées.
 
-Paul STAUFFER agit en qualité de responsable des traitements de données personnelles qu’il détermine dans le cadre de Sonar Club. Il peut être contacté à l’adresse staufferpaul.pro@gmail.com pour toute question relative à la protection des données.
+### 11.5 Point de contact unique et autorités
 
-Les catégories de données actuellement prévues comprennent notamment : adresse électronique, pseudonyme, mot de passe traité sous forme sécurisée par le service d’authentification utilisé, photographie de profil facultative, données de Compte, contenus et interactions sociales, ainsi que les données techniques strictement nécessaires au fonctionnement, à la sécurité, au diagnostic et au test de l’Application.
+Le point de contact unique du Service, pour les Utilisateurs comme pour les autorités, au sens du règlement (UE) 2022/2065 sur les services numériques, est l'adresse admin.sonarclub@gmail.com, en français ou en anglais. L'Éditeur coopère avec les autorités compétentes et leur signale les contenus illicites lorsque la loi l'impose.
 
-Les traitements ont notamment pour finalités : la création et la gestion du Compte, l’authentification, la fourniture des fonctionnalités sociales, la sécurité du Service, la prévention des abus, le traitement des signalements, la correction des anomalies, le support et l’amélioration de la bêta.
+## Article 12 — Données personnelles
 
-Selon la finalité concernée, les traitements reposent sur l’exécution des présentes CGU, le respect d’une obligation légale, l’intérêt légitime de l’Éditeur à sécuriser et améliorer le Service, ou le consentement lorsque celui-ci est requis.
+L'Éditeur traite les données personnelles des Utilisateurs conformément au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés. Les données collectées, les finalités, les durées de conservation, les destinataires et les droits des Utilisateurs (accès, rectification, effacement, opposition, limitation, portabilité, réclamation auprès de la CNIL) sont décrits dans la [politique de confidentialité](https://paulstauffer-sonar.github.io/sonar-club-legal/POLITIQUE_CONFIDENTIALITE.html), qui fait partie intégrante des présentes CGU.
 
-Le Service utilise Firebase. Les services Firebase effectivement activés, leurs rôles, les destinataires, les durées de conservation et les éventuels transferts internationaux doivent être détaillés dans la politique de confidentialité avant ou au moment où les traitements concernés sont mis en œuvre.
+## Article 13 — Disponibilité et évolution du Service
 
-L’Utilisateur dispose, dans les conditions prévues par le RGPD et la loi Informatique et Libertés, de droits d’accès, de rectification, d’effacement, de limitation, d’opposition et, lorsque les conditions sont remplies, de portabilité. Il peut retirer son consentement à tout moment pour les traitements fondés sur celui-ci, sans remettre en cause la licéité du traitement antérieur.
+L'Éditeur met en œuvre des moyens raisonnables pour assurer l'accès au Service et sa sécurité. L'accès peut toutefois être interrompu, notamment pour maintenance, mise à jour, panne ou cas de force majeure. L'Éditeur peut faire évoluer, ajouter ou retirer des fonctionnalités. Il informe les Utilisateurs dans un délai raisonnable en cas d'arrêt définitif du Service, afin de leur permettre de récupérer leurs données dans les conditions prévues par la politique de confidentialité.
 
-L’Utilisateur peut exercer ses droits auprès de staufferpaul.pro@gmail.com et introduire une réclamation auprès de la Commission nationale de l’informatique et des libertés (CNIL).
+## Article 14 — Responsabilité
 
-## 13. Comportements et contenus interdits
+L'Éditeur est responsable de la bonne exécution de ses obligations au titre des présentes CGU. Il ne peut être tenu responsable des dommages résultant d'une faute de l'Utilisateur, du fait d'un tiers, d'un cas de force majeure, ni des Contenus publiés par les Utilisateurs dont il n'a pas eu connaissance, conformément au régime applicable aux hébergeurs. Lorsqu'un Contenu manifestement illicite lui est signalé, il agit promptement pour le retirer.
 
-L’Utilisateur s’interdit notamment :
+L'Utilisateur est responsable de l'usage qu'il fait du Service et des Contenus qu'il publie. Il garantit l'Éditeur contre toute réclamation d'un tiers résultant d'un Contenu qu'il a publié en violation des présentes CGU.
 
-- de publier un contenu illicite, diffamatoire, injurieux, menaçant, haineux, discriminatoire, harcelant, frauduleux ou portant atteinte aux droits d’un tiers ;
-- de porter atteinte à la vie privée, au droit à l’image ou à la propriété intellectuelle d’un tiers ;
-- d’usurper l’identité d’une personne ;
-- de harceler, menacer ou intimider un autre Utilisateur ;
-- de collecter ou extraire les données d’autres Utilisateurs sans droit ou autorisation ;
-- d’utiliser des robots, scrapers, scripts ou procédés automatisés non autorisés ;
-- de tenter d’accéder au Compte d’un tiers ou de contourner les mesures de sécurité ;
-- de publier des liens vers des sources manifestement illicites de films, séries ou autres œuvres ;
-- d’introduire un virus, code malveillant ou élément susceptible de perturber le Service ;
-- d’utiliser la bêta à des fins commerciales, de revente, de démarchage ou de benchmarking public sans autorisation écrite de l’Éditeur.
+Aucune stipulation des présentes CGU n'a pour effet d'exclure ou de limiter la responsabilité de l'Éditeur lorsque la loi l'interdit, notamment en cas de faute lourde, de dol ou de dommage corporel, ni de priver l'Utilisateur consommateur des droits que lui reconnaît la loi.
 
-## 14. Signalement, blocage et modération
+## Article 15 — Suppression du Compte par l'Utilisateur
 
-Tout Utilisateur peut signaler un contenu ou un comportement contraire aux présentes CGU au moyen de la fonction de signalement disponible dans l’Application, lorsqu’elle est proposée, ou à l’adresse staufferpaul.pro@gmail.com.
+L'Utilisateur peut supprimer son Compte à tout moment, directement depuis l'Application, dans les Réglages, au moyen du bouton « Supprimer mon compte ». Il peut aussi en faire la demande par e-mail. La suppression est définitive : elle entraîne la suppression de son profil et de ses Contenus, dans les conditions et délais décrits dans la politique de confidentialité. La suppression du Compte met fin aux présentes CGU à l'égard de l'Utilisateur.
 
-Le Service permet ou doit permettre, pour les interactions sociales concernées, le blocage d’un autre Utilisateur.
+## Article 16 — Suspension et résiliation par l'Éditeur
 
-L’Éditeur peut examiner les signalements et prendre les mesures proportionnées nécessaires : restriction de visibilité, suppression d’un contenu, avertissement, limitation de fonctionnalités, suspension ou suppression d’un Compte.
+En cas de manquement aux présentes CGU, l'Éditeur peut suspendre ou supprimer le Compte de l'Utilisateur. Sauf manquement grave (notamment contenu illicite, harcèlement, atteinte à la sécurité du Service ou à des mineurs), qui justifie une mesure immédiate, la mesure est précédée d'un avertissement. L'Utilisateur est informé de la mesure et de ses motifs et peut la contester dans les conditions de l'article 11.4. Un Utilisateur dont le Compte a été supprimé pour manquement ne peut pas en créer un nouveau sans l'accord de l'Éditeur.
 
-Les signalements sont traités avec diligence et sans retard injustifié compte tenu de leur nature, de leur gravité et des informations disponibles. Aucun délai fixe de vingt-quatre heures n’est garanti pour l’ensemble des signalements.
+## Article 17 — Assistance et réclamations
 
-Lorsque la réglementation applicable l’exige, notamment au titre du règlement (UE) 2022/2065 sur les services numériques (DSA), l’Éditeur informe les personnes concernées des décisions prises, des principaux motifs de ces décisions et des voies de recours disponibles.
+L'Éditeur est seul responsable de l'assistance et de la maintenance de l'Application. Pour toute question, réclamation ou demande d'assistance, l'Utilisateur peut écrire à admin.sonarclub@gmail.com. L'Éditeur s'efforce de répondre dans les meilleurs délais.
 
-## 15. Disponibilité, sécurité et absence de garantie propre à la bêta
+## Article 18 — Dispositions propres à Apple
 
-L’Éditeur met en œuvre des moyens raisonnables pour assurer le fonctionnement de la bêta, sans garantir une disponibilité continue, un fonctionnement exempt de bugs, l’absence d’interruption, la compatibilité avec tout appareil ou la conservation permanente des données.
+L'Application est distribuée par l'App Store d'Apple. L'Utilisateur reconnaît et accepte que :
 
-L’accès peut être interrompu pour maintenance, mise à jour, correction, sécurité, évolution technique, incident chez un prestataire ou toute autre cause raisonnablement liée à la bêta.
+- les présentes CGU sont conclues entre l'Utilisateur et l'Éditeur uniquement, et non avec Apple Inc. (« Apple ») ; l'Éditeur, et non Apple, est seul responsable de l'Application et de son contenu ; les présentes CGU ne peuvent pas prévoir de règles d'utilisation contraires aux conditions générales des services multimédias d'Apple ;
+- Apple n'a aucune obligation de fournir un service de maintenance ou d'assistance pour l'Application ;
+- en cas de non-conformité de l'Application à une garantie applicable, l'Utilisateur peut en informer Apple, qui lui remboursera le prix d'achat de l'Application le cas échéant (l'Application étant gratuite, ce prix est nul) ; dans la mesure permise par la loi, Apple n'a aucune autre obligation de garantie concernant l'Application, et toute réclamation, perte ou dépense liée à une non-conformité relève de l'Éditeur ;
+- l'Éditeur, et non Apple, est chargé de traiter toute réclamation de l'Utilisateur ou d'un tiers relative à l'Application ou à son utilisation, notamment en matière de responsabilité du fait des produits, de non-conformité à une réglementation, de protection des consommateurs ou de protection de la vie privée ;
+- en cas de réclamation d'un tiers soutenant que l'Application ou son utilisation porte atteinte à ses droits de propriété intellectuelle, l'Éditeur, et non Apple, est seul responsable de l'enquête, de la défense, du règlement et de l'extinction de cette réclamation ;
+- l'Utilisateur déclare qu'il ne se trouve pas dans un pays soumis à un embargo du gouvernement des États-Unis ou désigné par celui-ci comme pays soutenant le terrorisme, et qu'il ne figure sur aucune liste de personnes interdites ou faisant l'objet de restrictions établie par le gouvernement des États-Unis ;
+- l'Utilisateur respecte les conditions des tiers applicables lorsqu'il utilise l'Application (par exemple son contrat d'accès à internet) ;
+- Apple et ses filiales sont des tiers bénéficiaires des présentes CGU ; dès que l'Utilisateur les a acceptées, Apple peut s'en prévaloir à son encontre en qualité de tiers bénéficiaire.
 
-L’Utilisateur est invité à ne pas utiliser la bêta comme unique moyen de conservation d’une information importante.
+Les coordonnées de l'Éditeur pour toute question, réclamation ou demande figurent aux articles 2 et 17.
 
-## 16. Responsabilité
+## Article 19 — Services tiers
 
-Compte tenu de la nature expérimentale, gratuite et non finalisée de la bêta, l’Utilisateur accepte les risques normalement associés à l’utilisation d’une version de test.
+Le Service s'appuie sur des services fournis par des tiers, notamment Apple (distribution et notifications), Google (plateforme Firebase : authentification, base de données, stockage, notifications, mesure d'audience et de performance) et TMDB (données relatives aux films). Leur utilisation est décrite dans la politique de confidentialité. L'Éditeur n'est pas responsable du contenu des sites ou services tiers vers lesquels l'Application peut renvoyer.
 
-Dans la mesure permise par le droit applicable, la responsabilité de l’Éditeur ne peut être engagée que pour les dommages directs et prévisibles qui lui sont imputables. L’Éditeur ne répond pas des dommages résultant du fait d’un tiers, du terminal de l’Utilisateur, du réseau de télécommunication, d’un service tiers ou d’un cas de force majeure.
+## Article 20 — Modification des CGU
 
-Aucune stipulation des présentes CGU ne limite ou exclut une responsabilité qui ne peut légalement l’être, notamment en cas de dol, faute lourde, dommage corporel ou violation d’une obligation légale impérative.
+L'Éditeur peut modifier les présentes CGU, notamment pour tenir compte d'une évolution de la loi, du Service ou de ses conditions d'exploitation. En cas de modification importante, l'Utilisateur en est informé dans l'Application au moins 15 jours avant son entrée en vigueur, sauf lorsque la modification est imposée par la loi ou par la sécurité du Service. Une nouvelle acceptation est alors demandée dans l'Application. L'Utilisateur qui refuse les nouvelles CGU peut supprimer son Compte à tout moment ; il ne peut plus utiliser le Service sans les avoir acceptées.
 
-## 17. Suspension et retrait d’accès
+## Article 21 — Droit applicable et litiges
 
-L’Éditeur peut suspendre ou retirer l’accès à la bêta en cas de violation des présentes CGU, atteinte à la confidentialité, comportement abusif, risque de sécurité, nécessité technique, obligation légale ou fin de la capacité de test.
+Les présentes CGU sont soumises au droit français. L'Utilisateur consommateur résidant dans un autre État de l'Union européenne conserve le bénéfice des dispositions impératives de la loi de son pays de résidence.
 
-En cas de manquement grave, de risque immédiat ou d’exigence de sécurité ou de conformité, la mesure peut prendre effet immédiatement. Dans les autres cas, l’Éditeur peut, lorsque les circonstances le permettent, adresser un avertissement préalable.
+En cas de différend, l'Utilisateur est invité à contacter d'abord l'Éditeur à l'adresse admin.sonarclub@gmail.com afin de rechercher une solution amiable. L'Utilisateur consommateur peut également recourir à tout mode alternatif de règlement des différends, notamment à un médiateur de la consommation dans les conditions prévues par le Code de la consommation. À défaut d'accord, le litige est porté devant les juridictions compétentes selon les règles de droit commun ; l'Utilisateur consommateur peut notamment saisir la juridiction du lieu où il demeurait au moment de la conclusion du contrat ou de la survenance du fait dommageable.
 
-Lorsque le DSA ou une autre règle impérative l’impose, les motifs et voies de recours sont communiqués à l’Utilisateur.
+## Article 22 — Dispositions générales
 
-## 18. Fin de la bêta et sort des données
-
-À la fin de la bêta, l’Éditeur se réserve la possibilité, selon l’état du projet et sous réserve de la réglementation applicable, soit de supprimer les Comptes et données de la bêta, soit de migrer tout ou partie de ces données vers une version ultérieure ou publique de Sonar Club.
-
-Lorsque cela est pertinent, l’Éditeur informe les Utilisateurs du choix retenu avant une suppression générale ou une migration significative.
-
-Les données devant être conservées temporairement pour respecter une obligation légale, assurer la sécurité, établir la preuve d’un droit ou permettre la défense de l’Éditeur peuvent être conservées pendant la durée strictement nécessaire à ces finalités.
-
-L’accès à la bêta ne confère aucun droit acquis à l’accès à la version officielle, à la gratuité de celle-ci, au maintien d’une fonctionnalité ou à la conservation d’un pseudonyme.
-
-## 19. Sources et services tiers
-
-Certaines informations relatives aux films et séries peuvent provenir de services tiers, notamment The Movie Database (TMDB), si cette source est maintenue dans la version effectivement distribuée. Les droits sur ces données, affiches, images, marques et autres éléments restent ceux de leurs titulaires.
-
-La présence d’une référence à un service tiers n’implique aucun partenariat ou approbation, sauf indication contraire.
-
-## 20. Distribution via TestFlight et Apple
-
-La bêta est distribuée via TestFlight. L’utilisation de TestFlight reste également soumise aux conditions et règles applicables du service Apple.
-
-Les présentes CGU sont conclues entre l’Utilisateur et l’Éditeur. Apple n’est pas l’éditeur de Sonar Club et n’assume aucune obligation de maintenance ou d’assistance relative à l’Application, sous réserve des obligations qui lui incombent directement en vertu de ses propres conditions ou de la loi.
-
-## 21. Modification des CGU
-
-L’Éditeur peut modifier les présentes CGU afin de tenir compte d’une évolution légale, réglementaire, technique, fonctionnelle, de sécurité ou propre au Programme Bêta.
-
-Les modifications significatives sont portées à la connaissance de l’Utilisateur avant leur entrée en vigueur lorsque cela est requis. Une nouvelle acceptation est demandée lorsqu’elle est nécessaire au regard de la nature du changement ou d’une obligation légale.
-
-## 22. Droit applicable et règlement des différends
-
-Les présentes CGU sont soumises au droit français. Ce choix ne prive pas un Utilisateur consommateur résidant dans un autre État de l’Union européenne des protections impératives que lui accorde le droit de son pays de résidence habituelle.
-
-En cas de difficulté, l’Utilisateur est invité à contacter préalablement Paul STAUFFER à staufferpaul.pro@gmail.com afin de rechercher une solution amiable.
-
-Si et dans la mesure où Paul STAUFFER agit en qualité de professionnel à l’égard d’un consommateur au sens du Code de la consommation, les informations relatives au médiateur de la consommation compétent seront communiquées conformément à la réglementation applicable.
-
-À défaut de règlement amiable, le litige relève des juridictions compétentes selon les règles de droit commun. Aucune clause ne prive un consommateur des règles impératives de compétence juridictionnelle qui lui sont applicables.
-
-## 23. Dispositions générales
-
-Si une stipulation des présentes CGU est déclarée nulle ou inapplicable, les autres stipulations demeurent applicables dans la mesure permise par la loi.
-
-Le fait pour l’Éditeur de ne pas se prévaloir ponctuellement d’un droit ne vaut pas renonciation à ce droit.
-
-Les obligations qui, par leur nature, doivent survivre à la fin de la bêta ou à la suppression d’un Compte, notamment celles relatives à la confidentialité, à la propriété intellectuelle, aux Feedbacks, à la responsabilité et au règlement des différends, continuent à produire leurs effets pendant la durée qui leur est propre.
+Si une stipulation des présentes CGU est déclarée nulle ou inapplicable, les autres stipulations restent en vigueur. Le fait pour l'Éditeur de ne pas se prévaloir d'un manquement ne vaut pas renonciation à s'en prévaloir ultérieurement. Les stipulations qui, par leur nature, ont vocation à survivre à la fin des CGU (notamment les articles 7, 9.2, 14 et 21) restent applicables. En cas de traduction, la version française fait foi.
